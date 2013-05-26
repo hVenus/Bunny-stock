@@ -1,1 +1,4 @@
 /.idea
+msvcp90.dll
+/dist
+/build
